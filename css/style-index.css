@@ -435,11 +435,12 @@
         .contact-item {
             display: flex;
             align-items: flex-start;
-            gap: 20px;
+            gap: 10px;
             background: var(--white);
-            padding: 30px;
-            border-radius: 10px;
+            padding: 10px;
+            border-radius: 20px;
             box-shadow: var(--shadow);
+            width: 290px;
         }
         
         .contact-icon {

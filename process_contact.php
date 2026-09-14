@@ -16,7 +16,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'OPTIONS') {
     exit(0);
 }
 
-// Database configuration - SESUAIKAN DENGAN SETTING ANDA
+// Database configuration - SESUAIKAN DENGAN SETTING 
 $host = 'localhost';
 $dbname = 'webdev_pro';
 $username = 'root';
